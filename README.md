@@ -6,6 +6,8 @@
 
 2. Itálicos, Negritos e Negritos e Itálicos
 
+3. Parágrafos com destaque. 
+
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -33,3 +35,13 @@ Um palavra cercada por 1 asterisco em cada lado terá seu formato modificado par
 Um palavra cercada por 2 asterisco em cada lado terá seu formato modificado para **negrito**
 
 Um palavra cercada por 3 asterisco em cada lado terá seu formato modificado para ***negrito/itálico***
+
+## Parágrafos com destaque
+
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
+
+> Esse é um parágrafo destacado do resto do texto.
+> Esse aqui também.
+> e assim por diante. 
+
+Os parágrafos acima estão destacados do restante do texto escrito. 
