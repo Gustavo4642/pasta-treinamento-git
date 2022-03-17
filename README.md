@@ -10,6 +10,9 @@
 
 4. Criação de hyperlinks
 
+5. Criando snippets de código
+
+
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -53,3 +56,32 @@ Os parágrafos acima estão destacados do restante do texto escrito.
 A criação de hiperlinks é feita através dos símbolos [] (). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado. Ex: [Google](www.google.com)
 
 [Voltar ao índice](##Indice)
+
+## Criando snippets de código
+Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.
+
+```java
+  public static void main(String[] args){
+    System.out.println("Teste de snippet");
+  }  
+```
+
+```python
+  def teste(){
+
+  }
+```
+
+```javascript
+  function bla(){
+    document.getElementById("teste");
+  }
+```
+
+```json
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+  }
+```
