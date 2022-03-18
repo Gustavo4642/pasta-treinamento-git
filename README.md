@@ -1,17 +1,22 @@
 #Markdown Tutorial
 
-## Indice 
+## Índice
 
-1. Headers
+[1. Headers](#headers)
 
-2. Itálicos, Negritos e Negritos e Itálicos
+[2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
-3. Parágrafos com destaque. 
+[3. Parágrafo com destaque](#parágrafo-com-destaque)
 
-4. Criação de hyperlinks
+[4. Criação de hyperlinks](#criação-de-hyperlinks)
 
-5. Criando snippets de código
+[5. Criando referências no próprio Markdown](#criando-referências-no-próprio-markdown)
 
+[6. Criando snippets de código](#criando-snippets-de-código)
+
+[7. Listas não-ordenadas](#listas-não-ordenadas)
+
+[8. Listas ordenadas](#listas-ordenadas)
 
 ## Headers
 
@@ -85,3 +90,21 @@ Para criar snippets de código (partes de código) basta utilizar o símbolo de 
     "age": 25
   }
 ```
+
+[Voltar ao índice](#índice)
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
+[Voltar ao índice](#índice)
+
+## Listas ordenadas
+Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no começo da linha.
+1. linha 1
+2. linha 2
+3. linha 3
+
+[Voltar ao índice](#índice)
