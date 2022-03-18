@@ -105,6 +105,6 @@ Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no começo da linha.
 1. linha 1
 2. linha 2
-3. linha Guti guti
+3. linha 3
 
 [Voltar ao índice](#índice)
